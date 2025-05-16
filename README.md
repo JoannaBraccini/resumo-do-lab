@@ -86,4 +86,19 @@ Durante a criação da máquina virtual, você precisará definir alguns parâme
 📌 [Documentação do GitHub](https://docs.github.com/pt)
 📌 [GitHub Markdown Guide](https://www.markdownguide.org/)
 
-----
+---------------------------------------------------------------
+
+# 🚀 Lab 3: Configuração de Banco de Dados na Azure
+
+## Visão Geral
+Neste laboratório, o objetivo foi praticar a configuração de uma instância de Banco de Dados na plataforma Microsoft Azure.
+
+## Principais Aprendizados
+- **Configuração na Azure**: Como criar uma instância de banco de dados, incluindo escolha de recursos e segurança.
+
+## Desafios
+- Ajustar corretamente permissões e acessos para garantir segurança.
+- Escolher a melhor abordagem SLA.
+- Identificar recursos essenciais para otimizar o uso do banco de dados.
+
+---
